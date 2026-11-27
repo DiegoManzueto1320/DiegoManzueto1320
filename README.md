@@ -113,35 +113,18 @@ and business intelligence projects.
 
 ## 05 — GitHub Analytics
 
-A visual overview of my development activity and
-technical contributions.
+A visual overview of my development activity and technical contributions.
 
-<div align="center">
+<p align="center">
+  <img width="47%" height="180" src="https://github-readme-stats.vercel.app/api?username=DiegoManzueto1320&show_icons=true&hide_rank=true&bg_color=101E30&title_color=22D3EE&text_color=CBD5E1&icon_color=22D3EE&border_color=2C415C" alt="GitHub Statistics" />
+  <img width="47%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoManzueto1320&layout=compact&bg_color=101E30&title_color=22D3EE&text_color=CBD5E1&border_color=2C415C" alt="Most Used Languages" />
+</p>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=DiegoManzueto1320&show_icons=true&hide_border=false&bg_color=101E30&title_color=22D3EE&text_color=CBD5E1&icon_color=22D3EE&border_color=2C415C"
-  width="48%"
-  alt="GitHub Statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoManzueto1320&layout=compact&bg_color=101E30&title_color=22D3EE&text_color=CBD5E1&border_color=2C415C"
-  width="48%"
-  alt="Most Used Languages"
-/>
-
-<br/>
-
-<img
-  src="https://streak-stats.demolab.com/?user=DiegoManzueto1320&background=101E30&border=2C415C&stroke=2C415C&ring=22D3EE&fire=22D3EE&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8"
-  width="98%"
-  alt="GitHub Contribution Streak"
-/>
-
-</div>
+<p align="center">
+  <img width="80%" src="https://streak-stats.demolab.com/?user=DiegoManzueto1320&background=101E30&border=2C415C&stroke=2C415C&ring=22D3EE&fire=22D3EE&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub Contribution Streak" />
+</p>
 
 ---
-
 
 
 **DIEGOLAB TECH**

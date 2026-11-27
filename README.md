@@ -1,13 +1,9 @@
 
 <div align="center">
 
-# DIEGO MANZUETO
-
-### Software Developer | Database Engineering
+<img src="./assets/banner.svg" width="100%" alt="DiegoLab Tech - Diego Manzueto" />
 
 **Software Engineering · Information Systems · Data Solutions**
-
-Kinshasa, Democratic Republic of the Congo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-manzueto-123103340/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiegoManzueto1320)

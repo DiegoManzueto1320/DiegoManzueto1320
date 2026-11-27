@@ -69,56 +69,35 @@ digital solutions that address real-world business needs.
 ![SSMS](https://img.shields.io/badge/SQL_Server_Management_Studio-161B22?style=for-the-badge)
 
 
+
 ## 03 — Featured Projects
 
-### GestPharmacie
+A selection of my software engineering, information systems
+and business intelligence projects.
 
-Desktop application designed to support the operational 
-and administrative management of pharmacies.
+<div align="center">
 
-**Domain:** Healthcare Information Systems  
-**Technology:** C#  
-**Focus:** Business management and data centralization
+<a href="https://github.com/DiegoManzueto1320/Gestion-Pharmaceutique">
+  <img src="./assets/projects/gestpharmacie.svg" width="48%" alt="GestPharmacie - Healthcare Information System" />
+</a>
+<a href="https://github.com/DiegoManzueto1320/Site-vitrine-de-chukutaya-construction">
+  <img src="./assets/projects/chekutaya.svg" width="48%" alt="Chekutaya Construction - Corporate Website" />
+</a>
 
-[Explore repository →](https://github.com/DiegoManzueto1320/Gestion-Pharmaceutique)
+<a href="https://github.com/DiegoManzueto1320/DashbordGestionProjet">
+  <img src="./assets/projects/project-dashboard.svg" width="48%" alt="Project Management Dashboard" />
+</a>
+<a href="https://github.com/DiegoManzueto1320/Gestion-des-appartements">
+  <img src="./assets/projects/apartments.svg" width="48%" alt="Apartment Management System" />
+</a>
 
----
+<br/>
 
-### Chekutaya Construction
+<a href="https://github.com/DiegoManzueto1320?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=22D3EE" alt="View all projects" />
+</a>
 
-Corporate website designed for a company operating 
-in the construction and civil engineering sector.
-
-**Domain:** Corporate Web Development  
-**Technology:** PHP, HTML, CSS, JavaScript  
-**Focus:** Digital presence and business services
-
-[Explore repository →](https://github.com/DiegoManzueto1320/Site-vitrine-de-chukutaya-construction)
-
----
-
-### Project Management Dashboard
-
-Structured dashboard designed to support IT project 
-monitoring, performance analysis and decision-making.
-
-**Domain:** Business Intelligence  
-**Focus:** Project monitoring, analytics and reporting
-
-[Explore repository →](https://github.com/DiegoManzueto1320/DashbordGestionProjet)
-
----
-
-### Apartment Management System
-
-Information system designed to support the 
-administrative management of residential properties.
-
-**Domain:** Property Management  
-**Technology:** C#  
-**Focus:** Information systems design and development
-
-[Explore repository →](https://github.com/DiegoManzueto1320/Gestion-des-appartements)
+</div>
 
 ---
 

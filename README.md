@@ -69,15 +69,60 @@ digital solutions that address real-world business needs.
 ![SSMS](https://img.shields.io/badge/SQL_Server_Management_Studio-161B22?style=for-the-badge)
 
 
-## 03 — Core Competencies
+## 03 — Featured Projects
 
-- Information Systems Analysis and Design
-- Relational Database Design
-- SQL Development and Query Optimization
-- Desktop and Web Application Development
-- REST API Development
-- Business Intelligence and Reporting
-- Software Documentation
+### GestPharmacie
+
+Desktop application designed to support the operational 
+and administrative management of pharmacies.
+
+**Domain:** Healthcare Information Systems  
+**Technology:** C#  
+**Focus:** Business management and data centralization
+
+[Explore repository →](https://github.com/DiegoManzueto1320/Gestion-Pharmaceutique)
+
+---
+
+### Chekutaya Construction
+
+Corporate website designed for a company operating 
+in the construction and civil engineering sector.
+
+**Domain:** Corporate Web Development  
+**Technology:** PHP, HTML, CSS, JavaScript  
+**Focus:** Digital presence and business services
+
+[Explore repository →](https://github.com/DiegoManzueto1320/Site-vitrine-de-chukutaya-construction)
+
+---
+
+### Project Management Dashboard
+
+Structured dashboard designed to support IT project 
+monitoring, performance analysis and decision-making.
+
+**Domain:** Business Intelligence  
+**Focus:** Project monitoring, analytics and reporting
+
+[Explore repository →](https://github.com/DiegoManzueto1320/DashbordGestionProjet)
+
+---
+
+### Apartment Management System
+
+Information system designed to support the 
+administrative management of residential properties.
+
+**Domain:** Property Management  
+**Technology:** C#  
+**Focus:** Information systems design and development
+
+[Explore repository →](https://github.com/DiegoManzueto1320/Gestion-des-appartements)
+
+---
+
+
 
 ## 04 — Currently Learning
 

@@ -23,31 +23,51 @@ business process automation and data analytics.
 I focus on designing structured, reliable and maintainable 
 digital solutions that address real-world business needs.
 
+
 ## 02 — Technical Expertise
 
 ### Software Engineering
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,php&theme=dark" alt="C#, .NET, Python, PHP" />
+</p>
+
+### Backend & API Development
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-161B22?style=for-the-badge&logo=dotnet&logoColor=93C5FD)
+![REST API](https://img.shields.io/badge/REST_API-161B22?style=for-the-badge&logoColor=22D3EE)
+![EF Core](https://img.shields.io/badge/Entity_Framework_Core-161B22?style=for-the-badge&logo=dotnet&logoColor=B49AFF)
 
 ### Database Engineering
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="MySQL, SQLite" />
+</p>
+
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-161B22?style=for-the-badge&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-161B22?style=for-the-badge)
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, Bootstrap" />
+</p>
 
 ### Data Analytics & Business Intelligence
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-161B22?style=for-the-badge&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-161B22?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-161B22?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-161B22?style=for-the-badge)
 
-### Development Tools
+### Development Tools & Version Control
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman&theme=dark" alt="Visual Studio, VS Code, Git, GitHub, Postman" />
+</p>
+
+![SSMS](https://img.shields.io/badge/SQL_Server_Management_Studio-161B22?style=for-the-badge)
+
 
 ## 03 — Core Competencies
 

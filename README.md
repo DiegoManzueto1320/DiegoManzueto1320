@@ -110,14 +110,39 @@ and business intelligence projects.
 - Software Architecture
 - ASP.NET Core Web APIs
 
-## 05 — Engineering Philosophy
 
-> Understand the problem. Design the solution.
-> Build with precision. Improve continuously.
+## 05 — GitHub Analytics
+
+A visual overview of my development activity and
+technical contributions.
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=DiegoManzueto1320&show_icons=true&hide_border=false&bg_color=101E30&title_color=22D3EE&text_color=CBD5E1&icon_color=22D3EE&border_color=2C415C"
+  width="48%"
+  alt="GitHub Statistics"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoManzueto1320&layout=compact&bg_color=101E30&title_color=22D3EE&text_color=CBD5E1&border_color=2C415C"
+  width="48%"
+  alt="Most Used Languages"
+/>
+
+<br/>
+
+<img
+  src="https://streak-stats.demolab.com/?user=DiegoManzueto1320&background=101E30&border=2C415C&stroke=2C415C&ring=22D3EE&fire=22D3EE&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8"
+  width="98%"
+  alt="GitHub Contribution Streak"
+/>
+
+</div>
 
 ---
 
-<div align="center">
+
 
 **DIEGOLAB TECH**
 
